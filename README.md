@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nitantsoni
 - 👀 I’m interested in Computer Security and AI
 - 🌱 I’m currently learning Golang
-- 📫 How to reach me - nitantsoni@gmail.com
 
 <!---
 nitantsoni/nitantsoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
